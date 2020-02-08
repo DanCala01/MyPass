@@ -1,0 +1,3 @@
+﻿  PassGen.cpp
+C:\Users\calob\source\repos\PassGen\PassGen\PassGen.cpp(31,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PassGen.vcxproj -> C:\Users\calob\source\repos\PassGen\Debug\PassGen.exe
